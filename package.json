@@ -1,0 +1,11 @@
+{
+  "name": "javascript-api-client",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "jssha": "^3"
+  },
+  "devDependencies": {},
+  "author": "Shiftboard",
+  "license": "MIT"
+}
